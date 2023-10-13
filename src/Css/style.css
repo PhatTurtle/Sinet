@@ -1,0 +1,59 @@
+.category{
+    background-color: #4286f4;
+
+    color:white
+    
+}
+footer {
+    background-color: #4286f4;
+
+    color:white
+}
+.dropend button{
+    width: 100%;
+    text-align: start;
+    
+}
+.dropend:hover{
+    background-color: #2E64ED;
+    color:white
+}
+.card-sp img{
+    width: 60%;
+    scale: .8;
+   
+    
+}
+.more{
+    width: 90%;
+    scale: .8;
+}
+.card:hover img{
+    scale: .9;
+}
+.card:hover h6{
+    color: skyblue;
+}
+.btn-cart button{
+    width: 70%;
+    background-color: #4286f4;
+    color: white;
+    border: none;
+    font-size: small;
+    display: none;
+}
+.card:hover button{
+    display: block;
+    position: absolute;
+    top: 60%;
+    left: 30%;
+
+}
+
+.card p {
+    color: #2E64ED;
+}
+.dropdown-menu>li>button:hover{
+    background-color: #2E64ED;
+    color: white;
+}
